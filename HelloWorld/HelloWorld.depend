@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1574870074 source:/home/nsikan/Desktop/workspace/c++/HelloWorld/main.cpp
+	<iostream>
+
+1572331060 source:/home/nsikan/Desktop/workspace/c++/HelloWorld/Add.cpp
+
+1572332195 source:/home/nsikan/Desktop/workspace/c++/HelloWorld/input.cpp
+	<iostream>
+
+1572354149 /home/nsikan/Desktop/workspace/c++/HelloWorld/add.h
+
+1572353360 /home/nsikan/Desktop/workspace/c++/HelloWorld/input.h
+
+1572354977 source:/home/nsikan/Desktop/workspace/c++/HelloWorld/Square.cpp
+	"Square.h"
+
+1572354545 /home/nsikan/Desktop/workspace/c++/HelloWorld/Square.h
+

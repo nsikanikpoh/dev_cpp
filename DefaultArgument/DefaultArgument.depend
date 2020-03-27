@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573810180 source:/home/nsikan/Desktop/workspace/c++/DefaultArgument/main.cpp
+	<iostream>
+	"addition.h"
+
+1573810180 /home/nsikan/Desktop/workspace/c++/DefaultArgument/addition.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584604357 source:/home/nsikan/Desktop/workspace/c++/ExceptionDerivingExceptionClass/main.cpp
+	<iostream>
+	<string>
+	<exception>
+

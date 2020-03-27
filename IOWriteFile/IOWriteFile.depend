@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584940450 source:/home/nsikan/Desktop/workspace/c++/IOWriteFile/main.cpp
+	<fstream>
+	<iostream>
+	<cstdlib>
+

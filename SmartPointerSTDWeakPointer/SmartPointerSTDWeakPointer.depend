@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584703320 source:/home/nsikan/Desktop/workspace/c++/SmartPointerSTDWeakPointer/main.cpp
+	<iostream>
+	<memory>
+	<string>
+

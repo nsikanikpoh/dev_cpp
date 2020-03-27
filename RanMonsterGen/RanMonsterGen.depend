@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575019314 source:/home/nsikan/Desktop/workspace/c++/RanMonsterGen/main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<array>
+

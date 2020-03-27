@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1584515140 source:/home/nsikan/Desktop/workspace/c++/FunctionTemplateTemplateCOntainerClassesSeperation/main.cpp
+	<iostream>
+	"Array.h"
+	"templates.cpp"
+
+1584515140 /home/nsikan/Desktop/workspace/c++/FunctionTemplateTemplateCOntainerClassesSeperation/Array.h
+	<assert.h>
+
+1584515140 /home/nsikan/Desktop/workspace/c++/FunctionTemplateTemplateCOntainerClassesSeperation/templates.cpp
+	"Array.h"
+	"Array.cpp"
+
+1584515140 /home/nsikan/Desktop/workspace/c++/FunctionTemplateTemplateCOntainerClassesSeperation/Array.cpp
+	"Array.h"
+

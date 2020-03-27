@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573493946 source:/home/nsikan/Desktop/workspace/c++/DynamicStringSortAssign/main.cpp
+	<iostream>
+	<string>
+	<utility>
+

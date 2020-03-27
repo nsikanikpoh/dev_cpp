@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585090383 source:/home/nsikan/Desktop/workspace/c++/HackerRankLexicographicPermutationWithBackTracking/main.cpp
+	<iostream>
+	<algorithm>
+

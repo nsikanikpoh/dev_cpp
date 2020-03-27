@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573228513 source:/home/nsikan/Desktop/workspace/c++/GravityHeightProblem/main.cpp
+	<iostream>
+	"constants.h"
+	<cstdint>
+
+1572704061 /home/nsikan/Desktop/workspace/c++/GravityHeightProblem/constants.h
+

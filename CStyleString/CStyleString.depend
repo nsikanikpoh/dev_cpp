@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573450347 source:/home/nsikan/Desktop/workspace/c++/CStyleString/main.cpp
+	<iostream>
+	<iterator>
+	<cstring>
+

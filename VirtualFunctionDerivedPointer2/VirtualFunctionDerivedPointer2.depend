@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584216282 source:/home/nsikan/Desktop/workspace/c++/VirtualFunctionDerivedPointer2/main.cpp
+	<iostream>
+	<string_view>
+	<string>
+

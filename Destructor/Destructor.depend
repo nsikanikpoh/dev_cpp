@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574520402 source:/home/nsikan/Desktop/workspace/c++/Destructor/main.cpp
+	<iostream>
+	<cassert>
+

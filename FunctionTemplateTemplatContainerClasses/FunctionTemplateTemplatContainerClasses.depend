@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584512963 source:/home/nsikan/Desktop/workspace/c++/FunctionTemplateTemplatContainerClasses/main.cpp
+	<iostream>
+	"Array.h"
+
+1584512963 /home/nsikan/Desktop/workspace/c++/FunctionTemplateTemplatContainerClasses/Array.h
+	<assert.h>
+

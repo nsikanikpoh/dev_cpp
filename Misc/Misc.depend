@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572680680 source:/home/nsikan/Desktop/workspace/c++/Misc/main.cpp
+	<iostream>
+	"constants.h"
+
+1572947988 /home/nsikan/Desktop/workspace/c++/Misc/constants.h
+
+1572948108 source:/home/nsikan/Desktop/workspace/c++/Misc/constants.cpp
+

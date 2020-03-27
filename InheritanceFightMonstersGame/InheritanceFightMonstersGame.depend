@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584018538 source:/home/nsikan/Desktop/workspace/c++/InheritanceFightMonstersGame/main.cpp
+	<array>
+	<iostream>
+	<string>
+	<string_view>
+	<cstdlib>
+	<ctime>
+

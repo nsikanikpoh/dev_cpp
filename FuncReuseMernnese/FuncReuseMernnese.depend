@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573203846 source:/home/nsikan/Desktop/workspace/c++/FuncReuseMernnese/main.cpp
+	<iostream>
+	<random>
+	<ctime>
+

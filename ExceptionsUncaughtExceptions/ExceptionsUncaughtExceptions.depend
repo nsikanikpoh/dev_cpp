@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1584600350 source:/home/nsikan/Desktop/workspace/c++/ExceptionsUncaughtExceptions/main.cpp
+	<iostream>
+	<cmath>
+

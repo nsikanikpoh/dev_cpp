@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574700308 source:/home/nsikan/Desktop/workspace/c++/Vector3dSep/Point3d.cpp
+	<iostream>
+	"Point3d.h"
+	"Vector3d.h"
+
+1574700308 /home/nsikan/Desktop/workspace/c++/Vector3dSep/Point3d.h
+
+1574700308 /home/nsikan/Desktop/workspace/c++/Vector3dSep/Vector3d.h
+	"Point3d.h"
+
+1574700308 source:/home/nsikan/Desktop/workspace/c++/Vector3dSep/Vector3d.cpp
+	<iostream>
+	"Vector3d.h"
+

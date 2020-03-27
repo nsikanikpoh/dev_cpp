@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1584536714 source:/home/nsikan/Desktop/workspace/c++/FunctionTemplatePartialTemplateSpecializationForPointers/main.cpp
+	<iostream>
+	<cstring>
+

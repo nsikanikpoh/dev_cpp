@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1584686142 source:/home/nsikan/Desktop/workspace/c++/SmartPointerSTDMakeUnique/main.cpp
+	<memory>
+	<iostream>
+

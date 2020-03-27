@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574163455 source:/home/nsikan/Desktop/workspace/c++/DefensiveProgram/main.cpp
+	<iostream>
+	<string>
+

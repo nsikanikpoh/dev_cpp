@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1577295810 source:/home/nsikan/Desktop/workspace/c++/NormalFunctionOperOverloadingSep/Cents.cpp
+	"Cents.h"
+
+1577295810 /home/nsikan/Desktop/workspace/c++/NormalFunctionOperOverloadingSep/Cents.h
+
+1577295810 source:/home/nsikan/Desktop/workspace/c++/NormalFunctionOperOverloadingSep/main.cpp
+	<iostream>
+	"Cents.h"
+

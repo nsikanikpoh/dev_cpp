@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1584940197 source:/home/nsikan/Desktop/workspace/c++/IOReadFile/main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+

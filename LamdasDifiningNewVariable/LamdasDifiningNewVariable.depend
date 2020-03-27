@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584776400 source:/home/nsikan/Desktop/workspace/c++/LamdasDifiningNewVariable/main.cpp
+	<array>
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1584080468 source:/home/nsikan/Desktop/workspace/c++/HackerRankChessNightProblemShortestPath/main.cpp
+	<iostream>
+	<set>
+	<queue>
+	<climits>
+

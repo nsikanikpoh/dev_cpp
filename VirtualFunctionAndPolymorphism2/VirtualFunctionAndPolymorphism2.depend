@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584223105 source:/home/nsikan/Desktop/workspace/c++/VirtualFunctionAndPolymorphism2/main.cpp
+	<iostream>
+	<string>
+	<string_view>
+

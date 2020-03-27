@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578670550 source:/home/nsikan/Desktop/workspace/c++/FixePoint2/main.cpp
+	<iostream>
+	<cstdint>
+

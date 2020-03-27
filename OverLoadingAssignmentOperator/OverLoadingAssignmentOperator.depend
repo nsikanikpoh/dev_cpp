@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578567920 source:/home/nsikan/Desktop/workspace/c++/OverLoadingAssignmentOperator/main.cpp
+	<cassert>
+	<iostream>
+

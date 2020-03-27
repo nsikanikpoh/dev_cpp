@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584721716 source:/home/nsikan/Desktop/workspace/c++/STDALgorithmsSTDSortCustom/main.cpp
+	<algorithm>
+	<array>
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584389547 source:/home/nsikan/Desktop/workspace/c++/VitualFUnctionObjectSlicingSTDReferenceWrapper/main.cpp
+	<iostream>
+	<vector>
+	<functional>
+

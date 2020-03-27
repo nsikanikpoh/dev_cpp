@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578578444 source:/home/nsikan/Desktop/workspace/c++/DeepCopying/main.cpp
+	<iostream>
+	<cstring>
+	<cassert>
+

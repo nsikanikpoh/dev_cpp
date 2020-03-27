@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582711973 source:/home/nsikan/Desktop/workspace/c++/AssociationBidirectionalDoctorPatient/main.cpp
+	<iostream>
+	<string>
+	<vector>
+

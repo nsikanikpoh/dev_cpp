@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1584686962 source:/home/nsikan/Desktop/workspace/c++/SmartPointerPassingSTDUniqueToAFunction/main.cpp
+	<iostream>
+	<memory>
+

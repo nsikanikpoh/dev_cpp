@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573454045 source:/home/nsikan/Desktop/workspace/c++/StringView/main.cpp
+	<iostream>
+	<string_view>
+	<cstring>
+

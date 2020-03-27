@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574752219 source:/home/nsikan/Desktop/workspace/c++/TimingCode/main.cpp
+	<iostream>
+	<array>
+	<chrono>
+

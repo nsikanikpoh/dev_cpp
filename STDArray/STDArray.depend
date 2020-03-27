@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573626894 source:/home/nsikan/Desktop/workspace/c++/STDArray/main.cpp
+	<iostream>
+	<array>
+	<algorithm>
+

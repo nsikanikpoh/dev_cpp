@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573641487 source:/home/nsikan/Desktop/workspace/c++/StructArrayAsign/main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

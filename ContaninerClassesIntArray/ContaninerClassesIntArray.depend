@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1583749557 source:/home/nsikan/Desktop/workspace/c++/ContaninerClassesIntArray/main.cpp
+	<iostream>
+	"IntArray.h"
+
+1583749503 /home/nsikan/Desktop/workspace/c++/ContaninerClassesIntArray/IntArray.h
+	<initializer_list>
+	<cassert>
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1573211504 source:/home/nsikan/Desktop/workspace/c++/RandLibrary/main.cpp
+	<iostream>
+	"random.hpp"
+
+1573204566 /home/nsikan/Desktop/workspace/c++/RandLibrary/random.hpp
+	<random>
+	<chrono>
+	<type_traits>
+	<cassert>
+	<initializer_list>
+	<utility>
+	<algorithm>
+	<iterator>
+	<limits>
+	<ostream>
+	<istream>
+

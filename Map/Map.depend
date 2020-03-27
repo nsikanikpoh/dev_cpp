@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577436459 source:/home/nsikan/Desktop/workspace/c++/Map/main.cpp
+	<iostream>
+	<string>
+	<vector>
+

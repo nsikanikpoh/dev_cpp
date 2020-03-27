@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572872886 source:/home/nsikan/Desktop/workspace/c++/BitManipulation/main.cpp
+	<iostream>
+	<bitset>
+
+1572869538 source:/home/nsikan/Desktop/workspace/c++/BitManipulation/Bitwise.cpp
+	<iostream>
+	<bitset>
+
+1572873309 source:/home/nsikan/Desktop/workspace/c++/BitManipulation/SetTestBits.cpp
+	<bitset>
+	<iostream>
+

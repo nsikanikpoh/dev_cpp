@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582556709 source:/home/nsikan/Desktop/workspace/c++/CompositopnAggregationTeacherDepartment/main.cpp
+	<string>
+	<iostream>
+	<vector>
+

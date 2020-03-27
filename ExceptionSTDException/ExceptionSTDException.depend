@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584603486 source:/home/nsikan/Desktop/workspace/c++/ExceptionSTDException/main.cpp
+	<iostream>
+	<exception>
+	<string>
+

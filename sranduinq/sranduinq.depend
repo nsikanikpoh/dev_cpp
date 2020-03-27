@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573200792 source:/home/nsikan/Desktop/workspace/c++/sranduinq/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
