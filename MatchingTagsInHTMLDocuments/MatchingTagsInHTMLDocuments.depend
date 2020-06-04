@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1588007183 source:/home/nsikan/Desktop/workspace/c++/MatchingTagsInHTMLDocuments/main.cpp
+	<iostream>
+	<vector>
+	"GenericSinglyLinkedList.h"
+	"LinkedStack.h"
+
+1588000993 /home/nsikan/Desktop/workspace/c++/MatchingTagsInHTMLDocuments/GenericSinglyLinkedList.h
+	<iostream>
+
+1588000993 /home/nsikan/Desktop/workspace/c++/MatchingTagsInHTMLDocuments/LinkedStack.h
+	<iostream>
+	"GenericSinglyLinkedList.h"
+

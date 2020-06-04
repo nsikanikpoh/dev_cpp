@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590754685 source:/home/nsikan/Desktop/workspace/c++/FindLast/main.cpp
+	<iostream>
+	<algorithm>
+

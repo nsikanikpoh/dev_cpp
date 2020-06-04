@@ -23,7 +23,6 @@ int main()
     invoke(std::ref(count));
 
     //Rule
-
     //Standard library functions may copy function objects (reminder: lambdas are function objects).
     //If you want to provide lambdas with mutable captured variables, pass them by reference using
     //std::ref.

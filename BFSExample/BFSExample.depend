@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590613245 source:/home/nsikan/Desktop/workspace/c++/BFSExample/main.cpp
+	<iostream>
+	<queue>
+	<vector>
+

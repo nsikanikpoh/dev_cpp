@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591179221 source:/home/nsikan/Desktop/workspace/c++/InheritSTDException/main.cpp
+	<iostream>
+	<exception>
+

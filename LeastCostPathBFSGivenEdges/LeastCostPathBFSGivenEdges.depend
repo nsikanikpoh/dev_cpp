@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590701368 source:/home/nsikan/Desktop/workspace/c++/LeastCostPathBFSGivenEdges/main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<climits>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589996638 source:/home/nsikan/Desktop/workspace/c++/MergeSortVector/main.cpp
+	<iostream>
+	<vector>
+

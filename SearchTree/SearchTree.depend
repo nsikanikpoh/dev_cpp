@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589749698 source:/home/nsikan/Desktop/workspace/c++/SearchTree/main.cpp
+	<iostream>
+	"LinkedBinaryTree.h"
+
+1589744131 /home/nsikan/Desktop/workspace/c++/SearchTree/LinkedBinaryTree.h
+	<list>
+

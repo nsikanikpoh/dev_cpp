@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587981651 source:/home/nsikan/Desktop/workspace/c++/RecursionLinearRecursions/main.cpp
+	<iostream>
+	<algorithm>
+

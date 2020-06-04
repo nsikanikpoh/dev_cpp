@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587984520 source:/home/nsikan/Desktop/workspace/c++/StackWithGenLinkedList/main.cpp
+	<iostream>
+	"GenericSinglyLinkedList.h"
+
+1587984184 /home/nsikan/Desktop/workspace/c++/StackWithGenLinkedList/GenericSinglyLinkedList.h
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589946418 source:/home/nsikan/Desktop/workspace/c++/RBTree/main.cpp
+	<iostream>
+	"SearchTree.h"
+
+1589943468 /home/nsikan/Desktop/workspace/c++/RBTree/SearchTree.h
+	"LinkedBinaryTree.h"
+
+1589943893 /home/nsikan/Desktop/workspace/c++/RBTree/LinkedBinaryTree.h
+	<list>
+

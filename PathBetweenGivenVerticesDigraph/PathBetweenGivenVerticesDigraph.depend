@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590702742 source:/home/nsikan/Desktop/workspace/c++/PathBetweenGivenVerticesDigraph/main.cpp
+	<iostream>
+	<queue>
+	<vector>
+

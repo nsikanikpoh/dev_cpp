@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589909792 source:/home/nsikan/Desktop/workspace/c++/AVLTree/main.cpp
+	<iostream>
+	"SearchTree.h"
+
+1589905094 /home/nsikan/Desktop/workspace/c++/AVLTree/SearchTree.h
+	"LinkedBinaryTree.h"
+
+1589903073 /home/nsikan/Desktop/workspace/c++/AVLTree/LinkedBinaryTree.h
+	<list>
+

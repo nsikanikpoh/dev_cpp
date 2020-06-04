@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1590338261 source:/home/nsikan/Desktop/workspace/c++/Graph/main.cpp
+	<iostream>
+	"Graph.h"
+
+1590338183 /home/nsikan/Desktop/workspace/c++/Graph/Graph.h
+	<algorithm>
+	<cassert>
+	<cmath>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<list>
+	<map>
+	<queue>
+	<set>
+	<stack>
+	<vector>
+	"disjoint_set.h"
+
+1590338183 /home/nsikan/Desktop/workspace/c++/Graph/disjoint_set.h
+	<iostream>
+	<map>
+

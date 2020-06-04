@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590685262 source:/home/nsikan/Desktop/workspace/c++/DijstraShortedtFirstPath/main.cpp
+	<iostream>
+	<stdio.h>
+

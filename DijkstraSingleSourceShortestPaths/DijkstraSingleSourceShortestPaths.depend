@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590789798 source:/home/nsikan/Desktop/workspace/c++/DijkstraSingleSourceShortestPaths/main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<climits>
+

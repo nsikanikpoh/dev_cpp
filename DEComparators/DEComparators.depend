@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1588831410 source:/home/nsikan/Desktop/workspace/c++/DEComparators/main.cpp
+	<iostream>
+	"Point2D.h"
+	<queue>
+
+1588826356 /home/nsikan/Desktop/workspace/c++/DEComparators/Point2D.h
+	<iostream>
+	<cmath>
+

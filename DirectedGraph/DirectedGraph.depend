@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590335688 source:/home/nsikan/Desktop/workspace/c++/DirectedGraph/main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590048044 source:/home/nsikan/Desktop/workspace/c++/MergeSet/main.cpp
+	<iostream>
+	<list>
+

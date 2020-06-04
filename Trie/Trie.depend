@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590179078 source:/home/nsikan/Desktop/workspace/c++/Trie/main.cpp
+	<iostream>
+	<unordered_map>
+	<string>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588368489 source:/home/nsikan/Desktop/workspace/c++/STLVector/main.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+	<algorithm>
+

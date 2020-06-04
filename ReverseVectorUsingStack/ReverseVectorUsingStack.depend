@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587985476 source:/home/nsikan/Desktop/workspace/c++/ReverseVectorUsingStack/main.cpp
+	<iostream>
+	<vector>
+	"ArrayStack.h"
+
+1587985239 /home/nsikan/Desktop/workspace/c++/ReverseVectorUsingStack/ArrayStack.h
+	<exception>
+

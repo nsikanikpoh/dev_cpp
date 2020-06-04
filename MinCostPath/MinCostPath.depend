@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590225202 source:/home/nsikan/Desktop/workspace/c++/MinCostPath/main.cpp
+	<iostream>
+	<algorithm>
+	<climits>
+

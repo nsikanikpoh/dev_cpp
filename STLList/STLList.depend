@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588241463 source:/home/nsikan/Desktop/workspace/c++/STLList/main.cpp
+	<iostream>
+	<list>
+	<iterator>
+
