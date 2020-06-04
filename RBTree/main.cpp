@@ -130,7 +130,7 @@ void RBTree<E>::erase(const K& k)
 
 /* RBTreehEi :: */
 template <typename E>
-void RBTree<E>::remedyDoubleBlack(const TPos& r)// fix double-black r
+void RBTree<E>::remedyDoubleBlack(const TPos& r)// fix  double-black r
 {
     TPos x = r.parent();// r’s parent
     TPos y = sibling(r);// r’s sibling

@@ -3,7 +3,7 @@
 using namespace std;
 
 
-//Code Fragment 13.1: The DFS algorithm.
+//Code Fragment 13.1: The DFS   algorithm.
 Algorithm DFS(G, v):
     Input: A graph G and a vertex v of G
     Output: A labeling of the edges in the connected component of v as discovery edges and back edges

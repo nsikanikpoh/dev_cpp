@@ -68,13 +68,13 @@ int main()
     vector<bool> discovered(N);
     int time = -1;
 
-    // Do DFS traversal from all undiscovered nodes to
+    // Do DFS traversal from all undiscovered  nodes to
     // cover all unconnected components of graph
     for (int i = 0; i < N; i++)
     if (!discovered[i])
         DFS(graph, i, discovered, arrival, departure, time);
 
-    // print arrival and departure time of each
+    // print arrival  and departure time of each
     // vertex in DFS
     for (int i = 0; i < N; i++) {
         cout << "Vertex " << i << " (" << arrival[i]

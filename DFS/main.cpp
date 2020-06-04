@@ -73,7 +73,7 @@ DFS<G>::DFS(const G& g)
     : graph(g), yes(new Object), no(new Object) {}
 
 
-template <typename G>// initialize a new DFS
+template <typename G>// initialize  a new DFS
 void DFS<G>::initialize()
 {
     VertexList verts = graph.vertices();

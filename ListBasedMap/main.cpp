@@ -63,6 +63,6 @@ a hash table that uses separate chaining to resolve collisions among its n entri
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "Hello world! " << endl;
     return 0;
 }

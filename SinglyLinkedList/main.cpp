@@ -51,7 +51,7 @@ void StringLinkedList::addFront(const string& e)   // add to front of list
     v->elem = e;
 // store data
     v->next = head;
-// head now follows v
+// head now follows  v
     head = v;
 // v is now the head
 }

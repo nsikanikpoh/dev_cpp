@@ -8,7 +8,7 @@ int hashCode(const char* p, int len)// hash a character array
     unsigned int h = 0;
     for (int i = 0; i < len; i++)
     {
-        h = (h << 5) | (h >> 27);// 5-bit cyclic shift
+        h = (h << 5) | (h >> 27);// 5-bit cyclic  shift
         h += (unsigned int) p[i];// add in next character
     }
     return hashCode(int(h));

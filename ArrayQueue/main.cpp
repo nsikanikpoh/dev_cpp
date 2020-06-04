@@ -5,7 +5,7 @@ using namespace std;
 
 class RuntimeException
 {
-// generic run-time exception
+// generic run-time  exception
 private:
     string errorMsg;
 public:

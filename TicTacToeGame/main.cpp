@@ -120,7 +120,7 @@ cout << "\n+-+-+-+\n";
         }
 
                 cout << "\n+-+-+-+\n";
-// row boundary
+// row bou ndary
     }
 }
 

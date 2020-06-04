@@ -54,7 +54,7 @@ void BFS(Graph const &graph, int v, vector<bool> &discovered)
         for (int u : graph.adjList[v])
             if (!discovered[u])
             {
-                // mark it discovered and push it into queue
+                // mark it discovered and push  it into queue
                 discovered[u] = true;
                 q.push(u);
             }

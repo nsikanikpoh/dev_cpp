@@ -64,7 +64,7 @@ int main()
                 Q.push(pii(v, D[v]));
             }
         }
-        F[u] = 1; // done with u
+        F[u] = 1; // done with  u
     }
 
     // result

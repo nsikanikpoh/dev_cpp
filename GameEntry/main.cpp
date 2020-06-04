@@ -100,7 +100,7 @@ GameEntry Scores::remove(int i)
     numEntries--;
 // one fewer entry
     return e;
-// return the removed object
+// return the r emoved object
 }
 
 void insertionSort(char* A, int n)

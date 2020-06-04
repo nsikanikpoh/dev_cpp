@@ -25,7 +25,7 @@ public:
     // Graph Constructor
     Graph(vector<Edge> const &edges, int N)
     {
-        // resize the vector to N elements of type vector<Edge>
+        // resize the vector to N elements  of type vector<Edge>
         adjList.resize(N);
 
         // add edges to the undirected graph

@@ -7,7 +7,7 @@ using namespace std;
 template <typename E>
 class VectorCompleteTree
 {
-//. . . insert private member data and protected utilities here
+//. . . insert private member data and protected  utilities here
 private:
 // member data
     std::vector<E> V;

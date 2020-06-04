@@ -10,7 +10,7 @@ public:
     int size() const;//number of elements
     bool isEmpty() const;//is the queue empty?
     void insert(const E& e);//insert element
-    const E& min() const;//minimum element
+    const E& min() const;//minimum  element
     void removeMin();//remove minimum
 };
 

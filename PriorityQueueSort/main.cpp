@@ -38,6 +38,6 @@ the aid of a priority queue P.
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "Hello world! " << endl;
     return 0;
 }

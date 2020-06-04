@@ -10,7 +10,7 @@ struct Edge
 
 typedef pair<int, int> Pair;
 
-// class to represent a graph object
+// class to represent a graph  object
 class Graph
 {
 public:

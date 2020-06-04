@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    // a (string,int) map
+    // a (string,int)  map
     map<string, int> myMap;
     map<string, int>::iterator p;
 // an iterator to the map

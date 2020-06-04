@@ -16,7 +16,7 @@ struct Edge {
 class Graph
 {
 public:
-    // construct a vector of vectors to represent adjacency list
+    // construct a vector of vectors to represent  adjacency list
     vector<vector<Edge>> adjList;
 
     // Graph Constructor

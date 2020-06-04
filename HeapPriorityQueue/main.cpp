@@ -9,7 +9,7 @@ class HeapPriorityQueue
 {
 public:
     int size() const;//number of elements
-    bool empty() const;//is the queue empty?
+    bool empty() const;//is the queue  empty?
     void insert(const E& e);//insert element
     const E& min();//minimum element
     void removeMin();//remove minimum

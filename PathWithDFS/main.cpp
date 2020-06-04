@@ -71,7 +71,7 @@ void printPath(const vector<int> &path)
 }
 
 
-// Function to perform DFS traversal in a directed graph to find the
+// Function to perform DFS traversal in a directed graph  to find the
 // complete path between source and destination vertices
 void printAllPaths(const Graph &graph, int src, int dest,
 		vector<bool> &discovered, vector<int> &path)

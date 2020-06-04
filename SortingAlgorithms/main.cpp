@@ -24,7 +24,7 @@ Algorithm merge(S 1 , S 2 , S):
     while j < S 2 .size() do {copy the remaining elements of S 2 to S}
         S.insertBack(S 2 [ j])
     j ← j + 1
-//Code Fragment 11.1: Algorithm for merging two sorted array-based sequences.
+//Code Fragment 11.1: Algorithm for merging two sorted  array-based sequences.
 
 //Linked List
 Algorithm merge(S 1 , S 2 , S):

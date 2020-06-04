@@ -7,7 +7,7 @@ struct Edge {
     int src, dest;
 };
 
-// class to represent a graph object
+// class to represent a  graph object
 class Graph
 {
 public:

@@ -81,7 +81,7 @@ void DijkstrasTest() {
   Edge* e8 = new Edge(d, g, 1);
   Edge* e9 = new Edge(g, f, 1);
 
-  a->distanceFromStart = 0;  // set start node
+  a->distanceFromStart = 0;  // set start  node
   Dijkstras();
   PrintShortestRouteTo(f);
 }

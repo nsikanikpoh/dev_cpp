@@ -12,7 +12,7 @@ class Decorator
 private:// member data
     std::map<string,Object*> map;// the map
 public:
-    Object* get(const string& a)// get value of attribute
+    Object* get(const string& a)// get  value of attribute
     {
         return map[a];
     }

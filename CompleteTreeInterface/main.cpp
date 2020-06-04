@@ -6,7 +6,7 @@ using namespace std;
 template <typename E>
 class CompleteTree
 {
-// left-complete tree interface
+// left-complete tree  interface
 public:
 // publicly accessible types
     class Position;

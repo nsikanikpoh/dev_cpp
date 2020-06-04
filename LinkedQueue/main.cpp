@@ -60,7 +60,7 @@ LinkedQueue::LinkedQueue()
     : C(), n(0) { } // constructor
 int LinkedQueue::size() const
 {
-    return n;    // number of items in the queue
+    return n;    // number of items  in the queue
 }
 bool LinkedQueue::empty() const
 {

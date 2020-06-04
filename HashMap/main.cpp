@@ -282,7 +282,7 @@ template <typename K, typename V, typename H>
 typename HashDict<K,V,H>::Iterator HashDict<K,V,H>::insert(const K& k, const V& v)// insert pair (k,v)
 {
     Iterator p = finder(k);// find key
-    Iterator q = inserter(p, Entry(k, v));// insert it here
+    Iterator q = inserter(p, Entry(k, v));// insert  it here
     return q;// return its position
 }
 

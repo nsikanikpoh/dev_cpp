@@ -107,7 +107,7 @@ Node* modifiedBFS(Graph const &g, int src, int k)
                 newNode->weight = cost + edge.weight;
                 newNode->parent = front;
 
-                // push every vertex (discovered or undiscovered) into
+                // push every vertex (discovered or  undiscovered) into
                 // the queue with cost equal to (cost of parent + weight
                 // of current edge)
                 q.push(newNode);

@@ -33,7 +33,7 @@ void Dijkstra(int graph[6][6], int src) // adjacency matrix used is 6x6
 		Tset[i] = false;
 	}
 
-	dist[src] = 0;   // Source vertex distance is set to zero.
+	dist[src] = 0;   // Source vertex distance  is set to zero.
 
 	for(int i = 0; i<6; i++)
 	{

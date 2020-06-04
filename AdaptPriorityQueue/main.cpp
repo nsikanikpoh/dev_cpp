@@ -6,7 +6,7 @@ using namespace std;
 
 
 template <typename E, typename C>
-class AdaptPriorityQueue  // adaptable priority queue
+class AdaptPriorityQueue  // adaptable priority  queue
 {
 protected:
     typedef std::list<E> ElementList;// list of elements

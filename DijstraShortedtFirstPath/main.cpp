@@ -46,7 +46,7 @@ void dijkstra(int G[max][max],int n,int startnode) {
    }
    for(i=0;i<n;i++)
    if(i!=startnode) {
-      cout<<"\nDistance of node"<<i<<"="<<distance[i];
+      cout<<"\nDistance of  node"<<i<<"="<<distance[i];
       cout<<"\nPath="<<i;
       j=i;
       do {

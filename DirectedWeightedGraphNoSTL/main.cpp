@@ -8,7 +8,7 @@ struct Node {
     Node* next;
 };
 
-// Data structure to store graph edges
+// Data structure to store  graph edges
 struct Edge {
     int src, dest, weight;
 };

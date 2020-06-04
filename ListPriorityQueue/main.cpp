@@ -7,7 +7,7 @@ template <typename E, typename C>
 class ListPriorityQueue
 {
 public:
-    int size() const;//number of elements
+    int size() const;//number of  elements
     bool empty() const;//is the queue empty?
     void insert(const E& e);//insert element
     const E& min() const;//minimum element

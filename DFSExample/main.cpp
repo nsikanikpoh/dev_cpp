@@ -33,7 +33,7 @@ public:
 // Function to perform DFS Traversal
 void DFS(Graph const &graph, int v, vector<bool> &discovered)
 {
-    // mark current node as discovered
+    // mark current node as  discovered
     discovered[v] = true;
 
     // print current node

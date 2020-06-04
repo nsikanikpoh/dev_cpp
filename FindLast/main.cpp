@@ -14,7 +14,7 @@ int main()
     if (it != rend(arr))
     {
         auto idx = std::distance(begin(arr), it.base());
-        std::cout << "idx is " << idx << std::endl;
+        std::cout << "idx  is " << idx << std::endl;
     }
     return 0;
 }

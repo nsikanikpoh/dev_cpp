@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Data structure to store Adjacency list nodes
+// Data structure to store  Adjacency list nodes
 struct Node {
     int val;
     Node* next;

@@ -20,7 +20,7 @@ int main()
     std::vector<int> t2{4, 5, 6};
     result = std::find_end(v.begin(), v.end(), t2.begin(), t2.end());
     if (result == v.end()) {
-        std::cout << "sequence not found\n";
+        std::cout << "sequence not  found\n";
     } else {
         std::cout << "last occurrence is at: "
                   << std::distance(v.begin(), result) << "\n";

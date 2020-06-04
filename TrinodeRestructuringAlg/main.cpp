@@ -21,6 +21,6 @@ respectively.
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "Hello worl d!" << endl;
     return 0;
 }

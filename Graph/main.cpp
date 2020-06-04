@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 	g.addVertex('B');
 	g.addVertex('C');
 	g.addVertex('D');
-	g.addVertex('A'); // Redundancy check
+	g.addVertex('A'); //  Redundancy check
 
 	/*
 -----	          ====

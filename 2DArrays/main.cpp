@@ -16,7 +16,7 @@ int main()
       int m{9};
 
     //Dynamic Allocation
-    int** M = new int*[n]; // allocate an array of row pointers
+    int** M = new int*[n]; // allocate an  array of row pointers
     for (int i = 0; i < n; i++)
         M[i] = new int[m]; // allocate the i-th row
 

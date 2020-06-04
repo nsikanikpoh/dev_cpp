@@ -270,7 +270,7 @@ void SearchTree<E>::erase(const K& k)
 template <typename E>
 void SearchTree<E>::erase(const Iterator& p)
 {
-    eraser(p.v);// erase entry at p
+    eraser(p.v);// erase entry  at p
 }
 
 

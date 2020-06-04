@@ -26,6 +26,6 @@ Algorithm TreeInsert(k, x, v):
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "Hello  world!" << endl;
     return 0;
 }

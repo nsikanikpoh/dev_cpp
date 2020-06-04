@@ -13,7 +13,7 @@ class AVLEntry : public E
 {
     // an AVL entry
 private:
-    int ht;// node height
+    int ht;// node  height
 protected:// local types
     typedef typename E::Key K;// key type
     typedef typename E::Value V;// value type

@@ -89,7 +89,7 @@ int main()
     // source and destination vertex
     int src = 0, dest = 7;
 
-    // perform BFS traversal from the source vertex to check the connectivity
+    // perform BFS traversal from the source vertex to check  the connectivity
     if (isConnected(graph, src, dest, discovered)) {
         cout << "Path exists from vertex " << src << " to vertex " << dest;
     }

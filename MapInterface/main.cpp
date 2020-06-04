@@ -7,7 +7,7 @@ template <typename K, typename V>
 class Map// map interface
 {
 public:
-    class Entry;// a (key,value) pair
+    class Entry;// a (key,value)  pair
     class Iterator;// an iterator (and position)
     int size() const;// number of entries in the map
     bool empty() const;// is the map empty?

@@ -19,7 +19,7 @@ class Tree<E>
 {
 public://public types
     class Position;//a node position
-    class PositionList;//a list of positions
+    class PositionList;//a list of  positions
 public://public functions
     int size() const;//number of nodes
     bool empty() const;//is tree empty?
