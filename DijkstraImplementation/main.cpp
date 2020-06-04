@@ -12,6 +12,7 @@ void DijkstrasTest();
 int main() {
   DijkstrasTest();
   return 0;
+
 }
 
 class Node;
