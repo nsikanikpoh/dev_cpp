@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596641410 source:/home/nsikan/Desktop/workspace/c++/DeletePalindrom/main.cpp
+	<iostream>
+	<unordered_map>
+	<string>
+

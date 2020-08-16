@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597006851 source:/home/nsikan/Desktop/workspace/c++/turnStile/main.cpp
+	<iostream>
+	<queue>
+	<vector>
+

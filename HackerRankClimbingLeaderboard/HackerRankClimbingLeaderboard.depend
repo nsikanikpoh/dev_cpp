@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1592926058 source:/home/nsikan/Desktop/workspace/c++/HackerRankClimbingLeaderboard/main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<unordered_map>
+	<utility>
+

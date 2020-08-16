@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
-1573607815 source:/home/nsikan/Desktop/workspace/c++/DynamicArrayAllocation/main.cpp
+1582033448 source:/home/nsikan/Desktop/workspace/c++/DynamicArrayAllocation/main.cpp
 	<iostream>
+	<string>
 

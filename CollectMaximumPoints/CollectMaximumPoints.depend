@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596660583 source:/home/nsikan/Desktop/workspace/c++/CollectMaximumPoints/main.cpp
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1593930447 source:/home/nsikan/Desktop/workspace/c++/HackerRankWeightedUniformStrings/main.cpp
+	<iostream>
+	<map>
+	<set>
+	<vector>
+

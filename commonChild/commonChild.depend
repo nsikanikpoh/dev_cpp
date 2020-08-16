@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597477934 source:/home/nsikan/Desktop/workspace/c++/commonChild/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

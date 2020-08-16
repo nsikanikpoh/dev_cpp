@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595969599 source:/home/nsikan/Desktop/workspace/c++/sherlockSquares/main.cpp
+	<iostream>
+	<cmath>
+

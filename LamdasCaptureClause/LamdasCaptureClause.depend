@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584773745 source:/home/nsikan/Desktop/workspace/c++/LamdasCaptureClause/main.cpp
+	<algorithm>
+	<array>
+	<iostream>
+	<string_view>
+	<string>
+

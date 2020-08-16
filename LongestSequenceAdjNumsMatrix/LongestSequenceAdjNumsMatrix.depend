@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596639650 source:/home/nsikan/Desktop/workspace/c++/LongestSequenceAdjNumsMatrix/main.cpp
+	<iostream>
+	<climits>
+	<unordered_map>
+	<algorithm>
+

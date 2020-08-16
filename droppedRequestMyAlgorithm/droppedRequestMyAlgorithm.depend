@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596581623 source:/home/nsikan/Desktop/workspace/c++/droppedRequestMyAlgorithm/main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+

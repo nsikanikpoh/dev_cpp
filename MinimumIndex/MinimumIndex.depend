@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591451284 source:/home/nsikan/Desktop/workspace/c++/MinimumIndex/main.cpp
+	<iostream>
+	<unordered_set>
+

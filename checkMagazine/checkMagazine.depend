@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597002204 source:/home/nsikan/Desktop/workspace/c++/checkMagazine/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<unordered_map>
+

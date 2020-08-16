@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592863754 source:/home/nsikan/Desktop/workspace/c++/HackerRankPickingNumbers/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

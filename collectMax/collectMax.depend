@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596750337 source:/home/nsikan/Desktop/workspace/c++/collectMax/main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<unordered_map>
+

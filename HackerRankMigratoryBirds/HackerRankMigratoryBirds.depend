@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593261529 source:/home/nsikan/Desktop/workspace/c++/HackerRankMigratoryBirds/main.cpp
+	<iostream>
+	<vector>
+	<map>
+

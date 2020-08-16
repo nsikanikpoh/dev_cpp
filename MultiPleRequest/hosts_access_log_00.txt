@@ -1,0 +1,11 @@
+unicom6.unicomp.net - - [01/Jul/1995:00:06 -0400] "Get /shuttwewew/wewe/ HTTP/1.0" 200 398
+burger.letters.com - - [01/Jul/1995:00:06 -0400] "Get /shuttwewew/wewe/ HTTP/1.0" 200 398
+burger.letters.com - - [01/Jul/1995:00:14 -0400] "Get /shuttwewew/wewe/ HTTP/1.0" 200 398
+burger.letters.com - - [01/Jul/1995:00:14 -0400] "Get /shuttwewew/wewe/ HTTP/1.0" 200 398
+burger.letters.com - - [01/Jul/1995:00:12 -0400] "Get /shuttwewew/wewe/ HTTP/1.0" 200 398
+burger.letters.com - - [01/Jul/1995:00:12 -0400] "Get /shuttwewew/wewe/ HTTP/1.0" 200 398
+burger.letters.com - - [01/Jul/1995:00:12 -0400] "Get /shuttwewew/wewe/ HTTP/1.0" 200 398
+burger.letters.com - - [01/Jul/1995:00:06 -0400] "Get /shuttwewew/wewe/ HTTP/1.0" 200 398
+burger.letters.com - - [01/Jul/1995:00:06 -0400] "Get /shuttwewew/wewe/ HTTP/1.0" 200 398
+burger.letters.com - - [01/Jul/1995:00:15 -0400] "Get /shuttwewew/wewe/ HTTP/1.0" 200 398
+deas.letters.com - - [01/Jul/1995:00:15 -0400] "Get /shuttwewew/wewe/ HTTP/1.0" 200 398

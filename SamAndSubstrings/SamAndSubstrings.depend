@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597404247 source:/home/nsikan/Desktop/workspace/c++/SamAndSubstrings/main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<numeric>
+

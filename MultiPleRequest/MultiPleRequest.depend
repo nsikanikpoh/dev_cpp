@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1596410057 source:/home/nsikan/Desktop/workspace/c++/MultiPleRequest/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<regex>
+	<unordered_map>
+

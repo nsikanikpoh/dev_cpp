@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593537420 source:/home/nsikan/Desktop/workspace/c++/HackerrankSumKonstants/main.cpp
+	<iostream>
+	<vector>
+	<numeric>
+

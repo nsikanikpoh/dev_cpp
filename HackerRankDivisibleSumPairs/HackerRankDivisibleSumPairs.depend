@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592997618 source:/home/nsikan/Desktop/workspace/c++/HackerRankDivisibleSumPairs/main.cpp
+	<iostream>
+	<vector>
+	<numeric>
+

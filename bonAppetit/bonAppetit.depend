@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595489336 source:/home/nsikan/Desktop/workspace/c++/bonAppetit/main.cpp
+	<iostream>
+	<vector>
+	<numeric>
+

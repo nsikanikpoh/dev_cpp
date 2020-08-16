@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1595594553 source:/home/nsikan/Desktop/workspace/c++/logestSubArray/main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cmath>
+	<algorithm>
+

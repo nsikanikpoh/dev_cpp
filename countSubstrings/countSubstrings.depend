@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597351972 source:/home/nsikan/Desktop/workspace/c++/countSubstrings/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<set>
+

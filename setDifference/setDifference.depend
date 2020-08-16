@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1597412290 source:/home/nsikan/Desktop/workspace/c++/setDifference/main.cpp
+	<algorithm>
+	<iostream>
+	<iterator>
+	<vector>
+	<set>
+	<string>
+
