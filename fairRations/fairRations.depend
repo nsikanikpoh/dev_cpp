@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598726967 source:/home/nsikan/Desktop/workspace/c++/fairRations/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

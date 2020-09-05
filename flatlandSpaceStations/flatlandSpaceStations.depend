@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598710389 source:/home/nsikan/Desktop/workspace/c++/flatlandSpaceStations/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599126569 source:/home/nsikan/Desktop/workspace/c++/maxNumberOfFamilies/main.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<algorithm>
+

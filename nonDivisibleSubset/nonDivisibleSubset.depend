@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598883252 source:/home/nsikan/Desktop/workspace/c++/nonDivisibleSubset/main.cpp
+	<iostream>
+	<vector>
+	<set>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599160008 source:/home/nsikan/Desktop/workspace/c++/uniquePathsWithObstacles/main.cpp
+	<iostream>
+	<vector>
+

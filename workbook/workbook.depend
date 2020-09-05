@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598892204 source:/home/nsikan/Desktop/workspace/c++/workbook/main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+

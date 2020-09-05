@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1598965756 source:/home/nsikan/Desktop/workspace/c++/AddTwoLinkedList/main.cpp
+	<algorithm>
+	<iostream>
+	<numeric>
+	<list>
+	<string>
+

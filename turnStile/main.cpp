@@ -20,27 +20,27 @@ time[i] <= time[i+1]
 direction[i] = 0 means entrance, direction[i] = 1 means exit.
 O(n)
 */
-vector<int> getTimeStamps(vector<int> time, vector<int> dir) {
+vector<int> getTimeStamps(vector<int> time, vector<int> direction) {
     int n = time.size();
     time.push_back(1E9 + 1E6);
-    vector<int> out(n);
-    queue<int> q[2]; // enter(0), exit(1)
+    vector<int> pass_turnstile(n);
+    queue<int> turnstile_queue[2]; // enter(0), exit(1)
     for (int i = 0, t = time[0], fl = -1; i < n; i++) {
-        q[dir[i]].push(i);
+        turnstile_queue[direction[i]].push(i);
         while (t < time[i + 1]) {
-            if (not q[0].empty() and not fl) {
-                out[q[0].front()] = t++;
-                q[0].pop();
+            if (!turnstile_queue[0].empty() && !fl) {
+                pass_turnstile[turnstile_queue[0].front()] = t++;
+                turnstile_queue[0].pop();
                 fl = 0;
             }
-            else if (not q[1].empty()) {
-                out[q[1].front()] = t++;
-                q[1].pop();
+            else if (!turnstile_queue[1].empty()) {
+                pass_turnstile[turnstile_queue[1].front()] = t++;
+                turnstile_queue[1].pop();
                 fl = 1;
             }
-            else if (not q[0].empty()) {
-                out[q[0].front()] = t++;
-                q[0].pop();
+            else if (!turnstile_queue[0].empty()) {
+                pass_turnstile[turnstile_queue[0].front()] = t++;
+                turnstile_queue[0].pop();
                 fl = 0;
             }
             else {
@@ -49,7 +49,7 @@ vector<int> getTimeStamps(vector<int> time, vector<int> dir) {
             }
         }
     }
-    return out;
+    return pass_turnstile;
 }
 
 int main()
@@ -57,7 +57,10 @@ int main()
 vector<int> time{0,0,1,5};
 vector<int> dir{0,1,1,0};
 vector<int> res = getTimeStamps(time, dir);
+cout<< "[ " ;
 for(int &i: res)
-    cout << i << endl;
+    cout<< i << " ";
+    cout<< "]";
+    cout << endl;
     return 0;
 }

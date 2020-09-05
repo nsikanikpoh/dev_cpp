@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1599127696 source:/home/nsikan/Desktop/workspace/c++/planeSeatReservation/main.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<algorithm>
+	<iomanip>
+

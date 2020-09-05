@@ -1,9 +1,6 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
-
-
 // Complete the jumpingOnClouds function below.
 int jumpingOnClouds(vector<int> c) {
     int jumps = 0;

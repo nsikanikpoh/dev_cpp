@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599138107 source:/home/nsikan/Desktop/workspace/c++/aetheticallyPleasingTrees/main.cpp
+	<iostream>
+	<vector>
+

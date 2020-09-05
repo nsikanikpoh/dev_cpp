@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1598772743 source:/home/nsikan/Desktop/workspace/c++/cavityMap/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdio>
+	<iterator>
+
